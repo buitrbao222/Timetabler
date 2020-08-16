@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/timetabler/static/css/main.5f361e03.chunk.css",
-    "main.js": "/timetabler/static/js/main.0b5ded35.chunk.js",
-    "main.js.map": "/timetabler/static/js/main.0b5ded35.chunk.js.map",
-    "runtime-main.js": "/timetabler/static/js/runtime-main.51461781.js",
-    "runtime-main.js.map": "/timetabler/static/js/runtime-main.51461781.js.map",
-    "static/js/2.8101ba18.chunk.js": "/timetabler/static/js/2.8101ba18.chunk.js",
-    "static/js/2.8101ba18.chunk.js.map": "/timetabler/static/js/2.8101ba18.chunk.js.map",
+    "main.js": "/timetabler/static/js/main.1f755127.chunk.js",
+    "main.js.map": "/timetabler/static/js/main.1f755127.chunk.js.map",
+    "runtime-main.js": "/timetabler/static/js/runtime-main.98a0c11a.js",
+    "runtime-main.js.map": "/timetabler/static/js/runtime-main.98a0c11a.js.map",
+    "static/js/2.4e64100e.chunk.js": "/timetabler/static/js/2.4e64100e.chunk.js",
+    "static/js/2.4e64100e.chunk.js.map": "/timetabler/static/js/2.4e64100e.chunk.js.map",
+    "static/css/3.5df389ab.chunk.css": "/timetabler/static/css/3.5df389ab.chunk.css",
+    "static/js/3.e5b14d7e.chunk.js": "/timetabler/static/js/3.e5b14d7e.chunk.js",
+    "static/js/3.e5b14d7e.chunk.js.map": "/timetabler/static/js/3.e5b14d7e.chunk.js.map",
     "index.html": "/timetabler/index.html",
-    "precache-manifest.d33d4b312e15415ba98816f003323f8f.js": "/timetabler/precache-manifest.d33d4b312e15415ba98816f003323f8f.js",
+    "precache-manifest.7264d3ad5a181b2436a4eb8f08c3367c.js": "/timetabler/precache-manifest.7264d3ad5a181b2436a4eb8f08c3367c.js",
     "service-worker.js": "/timetabler/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/timetabler/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8101ba18.chunk.js.LICENSE.txt": "/timetabler/static/js/2.8101ba18.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/timetabler/static/media/logo.5d5d9eef.svg"
+    "static/css/3.5df389ab.chunk.css.map": "/timetabler/static/css/3.5df389ab.chunk.css.map",
+    "static/js/3.e5b14d7e.chunk.js.LICENSE.txt": "/timetabler/static/js/3.e5b14d7e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/timetabler/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.51461781.js",
-    "static/js/2.8101ba18.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b5ded35.chunk.js"
+    "static/js/runtime-main.98a0c11a.js",
+    "static/css/3.5df389ab.chunk.css",
+    "static/js/3.e5b14d7e.chunk.js",
+    "static/js/main.1f755127.chunk.js"
   ]
 }
