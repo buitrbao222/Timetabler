@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c92f56a78c0df5d924eee5b58abd1e2",
+    "revision": "3ece71fcb8650ab9a1a48c748aa1cd7e",
     "url": "/timetabler/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/timetabler/static/js/3.187afe04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "333e564ea007d71292ac",
-    "url": "/timetabler/static/js/main.53bdb6cf.chunk.js"
+    "revision": "4bde245996c5d63e4b5c",
+    "url": "/timetabler/static/js/main.3c6127b8.chunk.js"
   },
   {
     "revision": "8b6cc119694573c3d3fe",
