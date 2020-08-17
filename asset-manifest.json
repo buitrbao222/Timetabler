@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/timetabler/static/js/main.3315a65f.chunk.js",
-    "main.js.map": "/timetabler/static/js/main.3315a65f.chunk.js.map",
+    "main.js": "/timetabler/static/js/main.5204cf01.chunk.js",
+    "main.js.map": "/timetabler/static/js/main.5204cf01.chunk.js.map",
     "runtime-main.js": "/timetabler/static/js/runtime-main.be292ada.js",
     "runtime-main.js.map": "/timetabler/static/js/runtime-main.be292ada.js.map",
     "static/js/2.ae251e32.chunk.js": "/timetabler/static/js/2.ae251e32.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9b21be7c.chunk.js": "/timetabler/static/js/3.9b21be7c.chunk.js",
     "static/js/3.9b21be7c.chunk.js.map": "/timetabler/static/js/3.9b21be7c.chunk.js.map",
     "index.html": "/timetabler/index.html",
-    "precache-manifest.12b0d9450c63ec6be8cda0f83cd112a6.js": "/timetabler/precache-manifest.12b0d9450c63ec6be8cda0f83cd112a6.js",
+    "precache-manifest.0d6d4b0e2338678fcf21a06f67029d6b.js": "/timetabler/precache-manifest.0d6d4b0e2338678fcf21a06f67029d6b.js",
     "service-worker.js": "/timetabler/service-worker.js",
     "static/css/3.5df389ab.chunk.css.map": "/timetabler/static/css/3.5df389ab.chunk.css.map",
     "static/js/3.9b21be7c.chunk.js.LICENSE.txt": "/timetabler/static/js/3.9b21be7c.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.be292ada.js",
     "static/css/3.5df389ab.chunk.css",
     "static/js/3.9b21be7c.chunk.js",
-    "static/js/main.3315a65f.chunk.js"
+    "static/js/main.5204cf01.chunk.js"
   ]
 }
