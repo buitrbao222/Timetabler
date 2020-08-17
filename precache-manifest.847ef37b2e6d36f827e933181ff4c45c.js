@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30071da23ae971b250df24c9aa92e2ce",
+    "revision": "6c92f56a78c0df5d924eee5b58abd1e2",
     "url": "/timetabler/index.html"
   },
   {
-    "revision": "96bd4a218faa3b70f3bd",
+    "revision": "606736eafd5f0b76ff76",
     "url": "/timetabler/static/css/3.5df389ab.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/timetabler/static/js/2.ae251e32.chunk.js"
   },
   {
-    "revision": "96bd4a218faa3b70f3bd",
-    "url": "/timetabler/static/js/3.9b21be7c.chunk.js"
+    "revision": "606736eafd5f0b76ff76",
+    "url": "/timetabler/static/js/3.187afe04.chunk.js"
   },
   {
     "revision": "89b0379e7bcda1a468d8b0343aeb4e53",
-    "url": "/timetabler/static/js/3.9b21be7c.chunk.js.LICENSE.txt"
+    "url": "/timetabler/static/js/3.187afe04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c93c50ab6cd431772876",
-    "url": "/timetabler/static/js/main.5204cf01.chunk.js"
+    "revision": "333e564ea007d71292ac",
+    "url": "/timetabler/static/js/main.53bdb6cf.chunk.js"
   },
   {
     "revision": "8b6cc119694573c3d3fe",
