@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/static/js/main.5ef078c0.chunk.js",
-    "main.js.map": "/static/js/main.5ef078c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4bd1e01.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4bd1e01.js.map",
-    "static/js/2.4a6a2781.chunk.js": "/static/js/2.4a6a2781.chunk.js",
-    "static/js/2.4a6a2781.chunk.js.map": "/static/js/2.4a6a2781.chunk.js.map",
-    "static/css/3.47271137.chunk.css": "/static/css/3.47271137.chunk.css",
-    "static/js/3.c5576fb4.chunk.js": "/static/js/3.c5576fb4.chunk.js",
-    "static/js/3.c5576fb4.chunk.js.map": "/static/js/3.c5576fb4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f07eba3df9ac7ce2e16e3dc08b2c4615.js": "/precache-manifest.f07eba3df9ac7ce2e16e3dc08b2c4615.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/3.47271137.chunk.css.map": "/static/css/3.47271137.chunk.css.map",
-    "static/js/3.c5576fb4.chunk.js.LICENSE.txt": "/static/js/3.c5576fb4.chunk.js.LICENSE.txt",
-    "static/js/myWorker.worker.1e80c690.worker.js": "/static/js/myWorker.worker.1e80c690.worker.js",
-    "static/js/myWorker.worker.1e80c690.worker.js.map": "/static/js/myWorker.worker.1e80c690.worker.js.map",
-    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.js": "/buitrbao222/timetabler/static/js/main.ba753631.chunk.js",
+    "main.js.map": "/buitrbao222/timetabler/static/js/main.ba753631.chunk.js.map",
+    "runtime-main.js": "/buitrbao222/timetabler/static/js/runtime-main.6f0d76c6.js",
+    "runtime-main.js.map": "/buitrbao222/timetabler/static/js/runtime-main.6f0d76c6.js.map",
+    "static/js/2.4a6a2781.chunk.js": "/buitrbao222/timetabler/static/js/2.4a6a2781.chunk.js",
+    "static/js/2.4a6a2781.chunk.js.map": "/buitrbao222/timetabler/static/js/2.4a6a2781.chunk.js.map",
+    "static/css/3.885f2d91.chunk.css": "/buitrbao222/timetabler/static/css/3.885f2d91.chunk.css",
+    "static/js/3.0a1a7f2a.chunk.js": "/buitrbao222/timetabler/static/js/3.0a1a7f2a.chunk.js",
+    "static/js/3.0a1a7f2a.chunk.js.map": "/buitrbao222/timetabler/static/js/3.0a1a7f2a.chunk.js.map",
+    "index.html": "/buitrbao222/timetabler/index.html",
+    "precache-manifest.d3d616a8c0f60643fbe40949374cee07.js": "/buitrbao222/timetabler/precache-manifest.d3d616a8c0f60643fbe40949374cee07.js",
+    "service-worker.js": "/buitrbao222/timetabler/service-worker.js",
+    "static/css/3.885f2d91.chunk.css.map": "/buitrbao222/timetabler/static/css/3.885f2d91.chunk.css.map",
+    "static/js/3.0a1a7f2a.chunk.js.LICENSE.txt": "/buitrbao222/timetabler/static/js/3.0a1a7f2a.chunk.js.LICENSE.txt",
+    "static/js/myWorker.worker.e33627e9.worker.js": "/buitrbao222/timetabler/static/js/myWorker.worker.e33627e9.worker.js",
+    "static/js/myWorker.worker.e33627e9.worker.js.map": "/buitrbao222/timetabler/static/js/myWorker.worker.e33627e9.worker.js.map",
+    "static/media/index.css": "/buitrbao222/timetabler/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4bd1e01.js",
-    "static/css/3.47271137.chunk.css",
-    "static/js/3.c5576fb4.chunk.js",
-    "static/js/main.5ef078c0.chunk.js"
+    "static/js/runtime-main.6f0d76c6.js",
+    "static/css/3.885f2d91.chunk.css",
+    "static/js/3.0a1a7f2a.chunk.js",
+    "static/js/main.ba753631.chunk.js"
   ]
 }
